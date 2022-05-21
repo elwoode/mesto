@@ -1,0 +1,17 @@
+.popup__input-error {
+  border-bottom-color: red;
+}
+
+span.popup__input-error {
+  color: red;
+
+  width: 358px;
+  margin: -25px 0 0;
+  font-size: 12px;
+  line-height: 15px;
+  word-wrap: normal;
+}
+
+.popup__input-error:last-of-type {
+  margin-top: -40px;
+}

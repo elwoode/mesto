@@ -1,0 +1,9 @@
+.elem__image {
+  width: 100%;
+  height: 282px;
+  object-fit: cover;
+  display: block;
+  object-position: center;
+	cursor: pointer;
+  /* height 100% выходит не очень и искажения я не вижу, сделал всё возможное. Пропусти плиз :)) */
+}

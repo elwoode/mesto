@@ -1,0 +1,7 @@
+.elem__info {
+  display: flex;
+  border-radius: 0 0 10px 10px;
+  background-color: #fff;
+  margin: 0;
+  justify-content: space-between;
+}
